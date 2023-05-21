@@ -24,8 +24,8 @@ Tengo conocimientos en diseño de interfaces con figma, Adove xd, Photoshop, exp
 <img align="right" alt="GIF" src="https://i.ibb.co/z6krct2/83087-developer-front-end.gif" width="200" height="150" />
 
 - 👨🏻‍💻 Actualmente trabajo en un proyecto de emprendimiento personal.
-- 💼 Desarrollé una plataforma para la gestion de servicios de transporte privado
-- 🤺 [Mi perfil profesional](https://developer.camilogomezl.com) lo puedes encontrar en 
+- 💼 Desarrollé una plataforma para la gestion de servicios de transporte privado [Transport Private](https://transport-private.netlify.app/)
+- 🤺 Mi perfil profesional lo puedes encontrar en 
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre flutter.
 - 📊 Soy entusiasta con el trabajo en equipo por medio de la metodología scrum.
 
